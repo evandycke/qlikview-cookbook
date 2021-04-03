@@ -1,0 +1,4 @@
+﻿LogMessage
+4/16/2011 11:26:32 PM: Script starting
+4/16/2011 11:26:32 PM: table1 has 1000 rows
+4/16/2011 11:26:34 PM: Script Ended

@@ -1,0 +1,15 @@
+Month, Customer, Product, Price
+1, ABC Corp, BasketBall, 1.00
+2, ABC Corp, BasketBall, 2.00
+3, ABC Corp, BasketBall, 3.00
+1, ABC Corp, Wicket, 1.00
+2, ABC Corp, Wicket, 2.00
+3, ABC Corp, Wicket, 3.00
+1, Eurosport, BasketBall, 5.00
+2, Eurosport, BasketBall, 6.00
+3, Eurosport, BasketBall, 7.00
+1, Eurosport, Wicket, 8.00
+2, Eurosport, Wicket, 9.00
+3, Eurosport, Wicket, 10.00
+
+

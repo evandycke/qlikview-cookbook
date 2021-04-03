@@ -1,0 +1,36 @@
+Version; Filename; Category; Description
+1; expressions\conditionalNumberFormatting.qvw; format; Conditional formatting - show integers without decimal, fractions with decimal
+3; expressions\outliers.qvw; range; Removing outlier values from a chart dimension.
+1; expressions\selectedWarning.qvw; warning, alert; Show warning in chart when selected values present
+4; expressions\GoogleChartMap.qvw; variable, map; Generate geographical heat map using Google Chart API 
+2; layout\help.qvw; layout; Creative use of object help and popups.
+5; layout\alternateTotalFormat.qvw; layout, format; Alternate format for chart Total rows.
+4; script\ActiveDirectoryLoad.qvw; script, Active Directory; Load from Active Directory - Users only. 
+1; script\ClassificationMapping.qvw; script, mapping; Using mapping to change class() labels.
+1; script\dateReading.qvw; script, datetime; Reading non-standard dates.
+1; script\DateTable.qvw; script, datetime; Generate date (calendar) table.
+10; script\incrementalLoad\incrementalLoad.qvw; script; Incremental reload example.
+2; script\regex.qvw; script, function; Regular Expression pattern matching function.
+1; script\textFunction.qvw; script, format; Using the text() function to preserve leading zeros.
+3; script\trailingMinus.qvw; script, format; Reading numbers with trailing minus signs.
+3; script\exists\exists.qvw; script, exists; Using the exists() function to merge data.
+10; script\IntervalUnits.qvw; expression, interval, datetime; Converting raw time units into Qlikview intervals
+5; script\excelMultiSheet\excelMultiSheet.qvw; excel; Load multiple sheets from Excel workbook
+6; script\intervalMatchCountingDays.qvw; script, IntervalMatch; Count days in a transaction using IntervalMatch
+6; script\multiInputRecordTypes.qvw; script, merge; Load and Merge data from input file that contains multiple record types.
+6; script\escapeQuotedStrings.qvw; script, quotes; Escaping quotes in variable values
+7; expressions\trueFalse.qvw; ;User selected on/off true/false switches
+7; script\mappingWithWildcards.qvw; mapping; Mapping with a table using wildcards
+8; macros\initialSelections_V8.qvw; macro; Making initial selections on document open - V8.
+8; script\dateGrouping.qvw; mapping; Assigning dates to temporal groups such as "Yesterday".
+8; script\mappingRanges.qvw; mapping; Mapping numeric ranges.
+8; script\fillRowsIntervalMatch.qvw;;Fill values in a data range using previous values.
+8; expressions\udf.qvw; function, expression; User Defined Function example.
+9; expressions\calcOnPossible.qvw;;Calculation Condition and Conditional Show based on selected count
+9; AdExtract\AdGroupsAndUsers.qvw;Active Directory;Load from Active Directory information using Microsoft LogParser input.
+10; layout\initialSelections_V9.qvw; macro; Making initial selections on document open - V9.
+10; script\mapsubstring.qvw; script, mapping; Using MapSubstring to edit strings.
+10; script\activedirectoryloadWithGroups.qvw; script, Active Directory; Load from Active Directory - Users and Groups.
+10; script\FileListing.qvw; script, filelist; List files from filesystem using FILELIST and DIRLIST.
+10; script\ExternalLogging.qvw; script, log; Logging script message to an external file.
+10; expressions\EnterDateFromTo.qvw; input box; User selectable dates using Input Box
